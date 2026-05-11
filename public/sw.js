@@ -1,4 +1,4 @@
-const CACHE_NAME = "nicis-crib-v2";
+const CACHE_NAME = "nicis-crib-v3";
 const scope = self.registration.scope;
 const APP_SHELL = [scope, `${scope}index.html`, `${scope}manifest.webmanifest`, `${scope}icon.svg`];
 
